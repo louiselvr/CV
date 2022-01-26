@@ -1,6 +1,6 @@
 # CV LOUISE LEVASSEUR 2022
 
-![Louise_Levasseur_CV](sample.png "Louise_Levasseur_CV")
+![Louise_Levasseur_CV](photo.jpg)
 
 
 ## Contact 
